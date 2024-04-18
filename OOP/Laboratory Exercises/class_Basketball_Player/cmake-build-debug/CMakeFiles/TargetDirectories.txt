@@ -1,3 +1,0 @@
-M:/2022.2023/Leten Semestar/Objektno Orientirano Programiranje/Laboratoriski JAZEKA/Lab 2/class_Basketball_Player/cmake-build-debug/CMakeFiles/class_Basketball_Player.dir
-M:/2022.2023/Leten Semestar/Objektno Orientirano Programiranje/Laboratoriski JAZEKA/Lab 2/class_Basketball_Player/cmake-build-debug/CMakeFiles/edit_cache.dir
-M:/2022.2023/Leten Semestar/Objektno Orientirano Programiranje/Laboratoriski JAZEKA/Lab 2/class_Basketball_Player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
